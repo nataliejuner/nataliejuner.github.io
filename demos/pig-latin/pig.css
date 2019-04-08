@@ -1,0 +1,42 @@
+#pig{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 80%;
+}
+h1{
+    text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+     width: 80%;
+     font-family: arial;
+     font-size: 100px;
+}
+h2{
+    text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+     width: 80%;
+     font-family: arial;
+     font-size: 30px;
+}
+textarea{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 80%;
+     font-size: 25px;
+}
+button{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     height: 50px;
+     width: 150px;
+     background-color: pink;
+     font-size: 30px;
+}
+
+footer{
+  text-align: center;
+}

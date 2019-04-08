@@ -650,6 +650,10 @@ a:focus {
 .cf .btn:focus {
   background-color: #ed8c69; }
 
+.site-footer {
+  background-color: #e8e8e8;
+  border-top: 2px solid #888; }
+
 .footer-col-wrapper {
   color: #686868; }
 
